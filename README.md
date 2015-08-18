@@ -1,5 +1,5 @@
 # [reCaptcha checker](https://github.com/Shaneen31/recaptchachecker)
-Version 1.0.0
+[Version 1.0.0](https://github.com/Shaneen31/recaptchachecker/releases/tag/v1.0.0)
 
 Easy to use reCaptcha class for php projects.
 No dependencies needed!
